@@ -11,5 +11,5 @@ public class Main {
     // Text display welcoming the user
     System.out.println ("Welcome, Mr./Mrs." + name + "who is" + age + "years old.");
 					      
-					        }
-						
+   }
+}				
