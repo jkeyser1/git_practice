@@ -10,5 +10,5 @@ public class Main {
    //Result if conditional is anything besides true
    System.out.println("Watch a DVD");
      }
-  }
+   }
 }
