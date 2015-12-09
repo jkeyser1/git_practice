@@ -5,6 +5,6 @@ public class Main {
    int b = 3;
    int m = Math.max(a,b);
     System.out.println("Comparison test:" +
-	                a + "and" +  b + "and the larger number is" +  m);
+	               a + "and" +  b + "and the larger number is" +  m);
   }
  }
